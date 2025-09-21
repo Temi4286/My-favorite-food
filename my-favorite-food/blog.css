@@ -5,13 +5,7 @@
     display: flex;
     justify-content: space-between;
     background-color: #1C2E4A;
-    color: white;
     align-items: center;
-    padding: 4px 20px;
-}
-
-.nav-bar-logo {
-    padding: 10px 0px;
 }
 
 .nav-links {
@@ -22,9 +16,8 @@
 }
 
 .nav-right-container {
-    background-color: #F26522;
+      background-color: #F26522;
     margin: 20px;
     border-radius: 8px;
-    padding: 0px 16px;
     color: white;
 }
