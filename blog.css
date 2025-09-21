@@ -1,0 +1,23 @@
+.nav-container {
+    margin: 0;
+    padding: 0px;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-between;
+    background-color: #1C2E4A;
+    align-items: center;
+}
+
+.nav-links {
+    display: flex;
+    list-style-type: none;
+    column-gap: 24px;
+    color: white;
+}
+
+.nav-right-container {
+      background-color: #F26522;
+    margin: 20px;
+    border-radius: 8px;
+    color: white;
+}
